@@ -6,7 +6,9 @@ Site : https://orielstudio.github.io/prix-atelier/
 
 - [Calculateur de prix de vente artisan](https://orielstudio.github.io/prix-atelier/calculateur-prix-de-vente-artisan/)
 - [Calcul du prix d'une bougie artisanale](https://orielstudio.github.io/prix-atelier/calcul-prix-bougie-artisanale/)
+- [Calcul du prix d'un savon artisanal](https://orielstudio.github.io/prix-atelier/calcul-prix-savon-artisanal/)
 - [Calcul du prix de bijoux fait main](https://orielstudio.github.io/prix-atelier/calcul-prix-bijoux-fait-main/)
+- [Calcul du prix d'une création en couture](https://orielstudio.github.io/prix-atelier/calcul-prix-couture/)
 - [Calcul du prix d'un gâteau personnalisé](https://orielstudio.github.io/prix-atelier/calcul-prix-gateau-personnalise/)
 - [Calcul du prix d'une impression 3D](https://orielstudio.github.io/prix-atelier/calcul-prix-impression-3d/)
 - [Calculateur de frais Etsy](https://orielstudio.github.io/prix-atelier/calculateur-frais-etsy/)
