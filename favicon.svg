@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .tag { fill: #2e3d8f; }
+    .ligne { stroke: #f6f1e8; }
+    @media (prefers-color-scheme: dark) {
+      .tag { fill: #a3b2f5; }
+      .ligne { stroke: #171411; }
+    }
+  </style>
+  <g transform="rotate(-8 16 16)">
+    <path class="tag" fill-rule="evenodd" d="M12.2 5H27a2 2 0 0 1 2 2v18a2 2 0 0 1-2 2H12.2a2 2 0 0 1-1.5-.68L3.6 17.3a2 2 0 0 1 0-2.6l7.1-9.02A2 2 0 0 1 12.2 5zM8.8 16a2.4 2.4 0 1 0 4.8 0 2.4 2.4 0 1 0-4.8 0z"/>
+    <path class="ligne" d="M17 12.5h8M17 19.5h5" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
